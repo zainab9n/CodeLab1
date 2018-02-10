@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://i.imgur.com/bwpqp38.jpg");
+    height: 100%;
+    font-family: "Times New Roman", serif;
+    background-size: cover;
+
+}
+.btn {
+    background-color: #660066;
+}
+
+.card {
+    background-color: #f2f2f2;
+}
